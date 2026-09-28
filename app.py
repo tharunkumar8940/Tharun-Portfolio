@@ -2430,12 +2430,12 @@ st.html(
             </div>
 
             <div class="cert-date">
-                Completed September 10, 2026
+                Completed September 9, 2026
             </div>
 
             <a
                 class="cert-button"
-                href="https://coursera.org/verify/DGDW1285LSWB"
+                href="https://coursera.org/share/3a5a6c7469788e18badbd3abde6ef427"
                 target="_blank"
             >
                 VERIFY CERTIFICATE →
